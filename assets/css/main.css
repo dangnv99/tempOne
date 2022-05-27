@@ -121,7 +121,7 @@ button#btnFrame:hover {
 .main__container-top {
   background-color: rgb(247, 247, 247);
   width: 100%;
-  padding: 30px 20px;
+  padding: 30px 20px 50px;
   text-align: center;
 }
 
@@ -155,7 +155,7 @@ button#btnFrame:hover {
 .main__container-column .container__paragraphs {
   background-color: rgb(255, 255, 255);
   text-align: justify;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 
   /* line-height: 150%; */
 }
@@ -184,7 +184,7 @@ button#btnFrame:hover {
 .main__container-top .fa-brands.fa-twitter {
   width: 30px;
   font-size: 25px;
-  color: blue;
+  color: rgb(86, 199, 238);
 }
 
 .main__container-top-twitter {
