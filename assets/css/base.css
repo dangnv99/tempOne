@@ -14,17 +14,11 @@ html {
   line-height: 1.6rem;
   box-sizing: border-box;
 }
-.grid {
-  width: 1200px;
-  max-width: 100%;
-  margin: 0 auto;
-}
-.grid__full-width {
-  width: 100%;
-}
+
 .grid__row {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  padding: 0 60px;
   background-color: rgb(243, 244, 251);
 }
 
@@ -36,7 +30,3 @@ html {
   width: 60%;
   margin: 0 auto;
 }
-
-/* .container {
-  display: flex;
-} */
